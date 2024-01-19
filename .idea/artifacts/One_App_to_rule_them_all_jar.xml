@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="One App to rule them all:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/One_App_to_rule_them_all_jar</output-path>
+    <root id="archive" name="One App to rule them all.jar">
+      <element id="module-output" name="One App to rule them all" />
+    </root>
+  </artifact>
+</component>
